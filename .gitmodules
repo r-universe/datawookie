@@ -8,8 +8,3 @@
 	url = https://github.com/datawookie/emayili
 	shallow = true
 	registered = true
-[submodule "liqueueR"]
-	path = liqueueR
-	url = https://github.com/datawookie/liqueuer
-	shallow = true
-	registered = true
