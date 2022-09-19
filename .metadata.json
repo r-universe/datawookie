@@ -2,5 +2,9 @@
   {
     "package": "emayili",
     "oncran": true
+  },
+  {
+    "package": "liqueueR",
+    "oncran": true
   }
 ]
