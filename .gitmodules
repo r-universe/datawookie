@@ -13,3 +13,8 @@
 	url = https://github.com/datawookie/liqueuer
 	shallow = true
 	registered = true
+[submodule "bunny"]
+	path = bunny
+	url = https://github.com/dmi3kno/bunny
+	shallow = true
+	registered = false
