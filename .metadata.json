@@ -1,10 +1,10 @@
 [
   {
-    "package": "emayili",
+    "package": "liqueueR",
     "oncran": true
   },
   {
-    "package": "liqueueR",
+    "package": "emayili",
     "oncran": true
   }
 ]
