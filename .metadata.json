@@ -1,6 +1,14 @@
 [
   {
+    "package": "clockify",
+    "oncran": true
+  },
+  {
     "package": "emayili",
+    "oncran": true
+  },
+  {
+    "package": "filebin",
     "oncran": true
   },
   {
