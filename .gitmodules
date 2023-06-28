@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "clockify"]
 	path = clockify
 	url = https://github.com/datawookie/clockify
-	shallow = true
-	registered = true
 [submodule "emayili"]
 	path = emayili
 	url = https://github.com/datawookie/emayili
-	shallow = true
-	registered = true
 [submodule "filebin"]
 	path = filebin
 	url = https://github.com/datawookie/filebin
-	shallow = true
-	registered = true
 [submodule "liqueueR"]
 	path = liqueueR
 	url = https://github.com/datawookie/liqueuer
-	shallow = true
-	registered = true
